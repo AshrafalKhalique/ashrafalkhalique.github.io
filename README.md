@@ -41,9 +41,11 @@
 - Completed 7-day Industrial Training at Ghorashal Power plant, Bangladesh, and C.E.R.S, Bangladesh Power Development Board, Tongi, Gazipur.
 - Completed 2-day Career and Leadership Aid Program (CLAP) 2022 organized by IEEE Region 10 Young Professionals.
 
-## Projects
-- Presented a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
-- I completed my undergraduate thesis titled Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial slabs as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
+## Projects & Thesis
+- I had the privilege to present a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
+- I completed my undergraduate thesis titled Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial Slabs as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
+- During my internship as a machine learning intern, I worked on real-world projects and collaborated with a team of skilled professionals. This hands-on experience has significantly strengthened my Python and machine-learning skills and deepened my understanding of the field.
+[Projects Link](https://github.com/AshrafalKhalique/ENCRYPTIX-.git) 
 
 ## Skills
 - **Technical Skills:** Python, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
