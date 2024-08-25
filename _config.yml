@@ -1,12 +1,12 @@
 title: Ashraf Al- Khalique
 subtitle: Electrical & Electronic Engineering Graduate | Open to Networking & Learning Opportunities | Aspiring Data Enthusiast | Ready to Drive Technological Advancements
-logo: /Files/Images/Final_Passport_Photo.png
+logo: Files/Images/Final_Passport_Photo-modified.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
 
 # Social Media Links
-social_links:
+show_social_links:
   Linkedin: https://linkedin.com/in/ashraf-al-khalique-ruet/
   Email: alkhalique.ashraf@gmail.com
   Whatsapp: +88016-89965355
