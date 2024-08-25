@@ -19,12 +19,12 @@
 - Monitored model performance and updated as required to ensure accuracy and relevance.
 
 ## Extracurricular Activities
-**Director of Marketing And Public Relations @ [HULT Prize at RUET 2022](https://www.facebook.com/hultprizeatruet). (_November 2022 - February 2023_)**
+**Director of Marketing And Public Relations @ [HULT Prize at RUET 2022](Files/PDF/Khalique.pdf). (_November 2022 - February 2023_)**
 - I actively facilitated HULT Prize events and was directly involved in planning and execution.
 - Collaborated closely with organizers and team members, emphasizing strong teamwork.
 - Promoted the event locally and globally, demonstrating marketing and public relations skills.
 
-**Event Team Lead Volunteer @ [IEEE Computer Society Bangladesh Chapter Team SPARK](https://www.facebook.com/ieeecsbdcspark). (_January 2022 - February 2023_)**
+**Event Team Lead Volunteer @ [IEEE Computer Society Bangladesh Chapter Team SPARK](Files/PDF/Spark.pdf). (_January 2022 - February 2023_)**
 - Managed and coordinated event logistics, demonstrating strong organizational and managerial skills.
 - Completed post-event tasks like feedback collection and evaluation, showing dedication to improvement and learning from experiences.
 
@@ -32,13 +32,13 @@
 - Efficiently coordinated events, demonstrating strong organizational and multitasking abilities.
 - Leveraged strong social media skills to promote and enhance event visibility strategically, showcasing proficiency in digital marketing and communication.
 
-**Logistic Officer @ [TEDxRUET 2020](https://www.tedxruet.org/). (_April 2020 - April 2021_)**
+**Logistic Officer @ [TEDxRUET 2020](Files/PDF/TEDxRUET.pdf). (_April 2020 - April 2021_)**
 - Oversaw the efficient management of events, ensuring smooth operations and coordination of resources.
 - Leadership in logistics contributed to the overall success of TEDxRUET 2020, highlighting effectiveness in managing event logistics.
 
 ## Training
 - Completed 7-day Industrial Training at Ghorashal Power plant, Bangladesh, and C.E.R.S, Bangladesh Power Development Board, Tongi, Gazipur.
-- Completed 2-day Career and Leadership Aid Program (CLAP) 2022 organized by IEEE Region 10 Young Professionals.
+- Completed 2-day Career and Leadership Aid Program (CLAP) 2022 organized by [IEEE Region 10 Young Professionals](https://yp.ieeer10.org/career-and-leadership-aid-program-2022/).
 
 ## Projects & Thesis
 - I had the privilege to present a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
