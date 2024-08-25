@@ -1,8 +1,8 @@
 ## About me
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
-- My research interest lies in the application of machine learning and data science to healthcare, with a focus on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim towards translating raw data from clinical trials and healthcare systems into actionable knowledge that can inform personalized medicine and public health strategies.
-- Check my Curriculumn Vitae
-![CV](/assets/PDF/Ashraf Al- Khalique.pdf)
+- My research interest lies in applying machine learning and data science to healthcare, with a focus on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge that can inform personalized medicine and public health strategies.
+- Check my curriculum vitae
+![CV](/assets/PDF/Ashraf Al Khalique.pdf)
 
 ## Education
 - Bachelor of Science in Electrical & Electronic Engineering | Rajshahi University of Engineering & Technology, Bangladesh. (_2018 - 2024_)								       		
@@ -16,12 +16,12 @@
 
 ## Work Experience
 **Machine Learning Intern @ Encryptix. (_June 2024 - July 2024_)**
-- Implemented and fine-tuned machine learning models using frameworks like TensorFlow, PyTorch, and scikit-learn in various projects.
+- Implemented and fine-tuned machine learning models using frameworks like TensorFlow, PyTorch, and Scikit-learn in various projects.
 - Monitored model performance and updated as required to ensure accuracy and relevance.
 
-## Extracurriculur Activities
+## Extracurricular Activities
 **Director of Marketing And Public Relations @ HULT Prize at RUET 2022. (_November 2022 - February 2023_)**
-- Actively facilitated HULT Prize events, directly involved in planning and execution.
+- I actively facilitated HULT Prize events and was directly involved in planning and execution.
 - Collaborated closely with organizers and team members, emphasizing strong teamwork.
 - Promoted the event locally and globally, demonstrating marketing and public relations skills.
 
@@ -43,7 +43,7 @@
 
 ## Projects
 - Presented a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
-- Completed undergraduate thesis titled Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial slabs as a partial requirement of the degree of Bachelor of Science in Electrical & Electronic Engineering.
+- I completed my undergraduate thesis titled Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial slabs as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
 
 ## Skills
 **Technical Skills:** Python, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
