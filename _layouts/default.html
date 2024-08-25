@@ -22,7 +22,7 @@
         {% endif %}
 
         {% if site.logo %}
-        <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 100px; height: 100px;" />
+        <img src="{{ site.logo | relative_url }}" alt="Logo" style="width: 300px; height: 300px;" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -56,20 +56,20 @@
 
         <p>Connect with me:</p>
         <p>
-        {% if site.social_links.linkedin %}
-        <a href="{{ site.social_links.linkedin }}" target="_blank">
+        {% if site.social_links.Linkedin %}
+        <a href="{{ site.social_links.Linkedin }}" target="_blank">
         <img src="{{ '/assets/images/linkedin.png' | relative_url }}" alt="LinkedIn" style="width: 24px; height: 24px; vertical-align: middle;"/>
         </a>
         {% endif %}
 
-        {% if site.social_links.email %}
-        <a href="mailto:{{ site.social_links.email }}">
+        {% if site.social_links.Email %}
+        <a href="mailto:{{ site.social_links.Email }}">
         <img src="{{ '/assets/images/email.png' | relative_url }}" alt="Email" style="width: 24px; height: 24px; vertical-align: middle;"/>
         </a>
         {% endif %}
 
-        {% if site.social_links.whatsapp %}
-        <a href="https://wa.me/{{ site.social_links.whatsapp }}" target="_blank">
+        {% if site.social_links.Whatsapp %}
+        <a href="https://wa.me/{{ site.social_links.Whatsapp }}" target="_blank">
         <img src="{{ '/assets/images/whatsapp.png' | relative_url }}" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"/>
         </a>
         {% endif %}
