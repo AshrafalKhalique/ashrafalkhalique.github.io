@@ -1,7 +1,7 @@
 ## About me
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
 - My research interest lies in applying machine learning and data science to healthcare, with a focus on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge that can inform personalized medicine and public health strategies.
-- Check my [curriculum vitae](Files/PDF/Ashraf Al Khalique.pdf)
+- Check my [curriculum vitae](Files/PDF/AshrafAlKhalique.pdf)
 
 ## Education
 - Bachelor of Science in Electrical & Electronic Engineering | Rajshahi University of Engineering & Technology, Bangladesh. (_2018 - 2024_)								       		
