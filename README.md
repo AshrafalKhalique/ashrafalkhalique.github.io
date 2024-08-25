@@ -2,7 +2,7 @@
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
 - My research interest lies in applying machine learning and data science to healthcare, with a focus on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge that can inform personalized medicine and public health strategies.
 - Check my curriculum vitae
-![CV](/assets/PDF/Ashraf Al Khalique.pdf)
+![CV](/Files/PDF/Ashraf Al Khalique.pdf)
 
 ## Education
 - Bachelor of Science in Electrical & Electronic Engineering | Rajshahi University of Engineering & Technology, Bangladesh. (_2018 - 2024_)								       		
@@ -46,5 +46,9 @@
 - I completed my undergraduate thesis titled Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial slabs as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
 
 ## Skills
-**Technical Skills:** Python, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
-**Soft Skills:** Leadership, Communication, Logistics Management, Team Coordination
+- **Technical Skills:** Python, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
+- **Soft Skills:** Leadership, Communication, Logistics Management, Team Coordination
+
+## Connect me on
+[Linkedln](https://linkedin.com/in/ashraf-al-khalique-ruet/) [Email](alkhalique.ashraf@gmail.com)
+ 
