@@ -13,6 +13,12 @@
 - Data Science & Data Engineering
 - Biomedical & Health informatics
 
+## Research Experience
+**Health Informatics Research Lab (HIRL) @ Department of Computer Science and Engineering, Daffodil International University.
+• Working closely with Professor Md. Zahid Hasan, PhD, and Shahed Hossain on research in health informatics and machine learning application in biomedical science.
+• Engaged in developing innovative Health Informatics solutions aimed at integrating data-driven models to analyze and interpret complex biological data.
+• Focused on leveraging machine learning to translate raw data from clinical trials and healthcare systems into actionable insights, informing personalized medicine and public health strategies
+
 ## Work Experience
 **Machine Learning Intern @ [Encryptix](https://drive.google.com/file/d/1FtM4TT3PtbKMiAiwc009ytu22vAW24sW/view?usp=sharing). (_June 2024 - July 2024_)**
 - Implemented and fine-tuned machine learning models using frameworks like TensorFlow, PyTorch, and Scikit-learn in various projects.
@@ -44,9 +50,11 @@
 - I was privileged to present a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
 - I completed my undergraduate thesis titled [Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial Slabs](Files/Projects/1801171_Defense.pptx) as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree. 
 - During my internship as a machine learning intern, I worked on real-world projects and collaborated with a team of skilled professionals. This hands-on experience has significantly strengthened my Python and machine-learning skills and deepened my understanding of the field.
-[Projects Link](https://github.com/AshrafalKhalique/ENCRYPTIX-.git) 
+[Projects Link](https://github.com/AshrafalKhalique/ENCRYPTIX-.git)
+- Currently developing proficiency in Power BI to create interactive, insightful dashboards, leveraging its powerful analytics and data visualization features for data-driven decision-making.
+[Projects Link](https://github.com/AshrafalKhalique/Ashraf-PowerBi)
 
 ## Skills
-- **Technical Skills:** Python, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
+- **Technical Skills:** Python, Power Bi, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
 - **Soft Skills:** Leadership, Communication, Logistics Management, Team Coordination
  
