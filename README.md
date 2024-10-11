@@ -1,4 +1,4 @@
-## About me
+## About me 📌
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
 - My research interest lies in applying machine learning and data science to healthcare, focusing on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge to inform personalized medicine and public health strategies.
 - Check my [curriculum vitae](https://drive.google.com/file/d/1QC8zbW7JDX0VMH65YN7GGjyp-P6lTeNg/view?usp=sharing)
