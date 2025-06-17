@@ -1,7 +1,7 @@
 ## About me 📌
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
 - My research interest lies in applying machine learning and data science to healthcare, focusing on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge to inform personalized medicine and public health strategies.
-- Check my [curriculum vitae](https://drive.google.com/file/d/1QC8zbW7JDX0VMH65YN7GGjyp-P6lTeNg/view?usp=sharing)
+- Check my [curriculum vitae](https://drive.google.com/file/d/1JewfDxPrg-TbigTCYtFkY6iM8WXR5r-x/view?usp=sharing)
 
 ## Education 🎓
 - Bachelor of Science in Electrical & Electronic Engineering | Rajshahi University of Engineering & Technology, Bangladesh. (_2018 - 2024_)								       		
@@ -9,17 +9,27 @@
 - Secondary School Certificate | Dhanmondi Govt. Boys’ High School, Bangladesh.  (_2006 - 2016_)
 
 ## Research Interest 🔎 
-- Machine Learning
+- Machine Learning & Deep LEarning
 - Data Science & Data Engineering
-- Biomedical & Health informatics
+- Biomedical Engineering & Health Informatics
 
 ## Research Experience 📚 
 **Health Informatics Research Lab (HIRL) @ Department of Computer Science and Engineering, Daffodil International University.**
-- Working closely with Professor Md. Zahid Hasan, PhD, and Shahed Hossain on research in health informatics and machine learning application in biomedical science.
+- I have been working closely with Professor Md. Zahid Hasan, PhD, and Shahed Hossain on research in health informatics and machine learning applications in biomedical science.
 - Engaged in developing innovative Health Informatics solutions aimed at integrating data-driven models to analyze and interpret complex biological data.
-- Focused on leveraging machine learning to translate raw data from clinical trials and healthcare systems into actionable insights, informing personalized medicine and public health strategies
+- Focused on leveraging machine learning to translate raw data from clinical trials and healthcare systems into actionable insights, informing personalized medicine and public health strategies.
+
+**Signal Processing and Machine Learning Lab @ Department of Electrical & Electronic Engineering, Rajshahi University of Engineering & Technology.**
+- During the undergraduate period, I worked with Professor Dr. Mohammod Abdul Motin in the development of predictive systems using physiological signals from wearable devices at the Department of Electrical & Electronic Engineering, Rajshahi University of Engineering & Technology, Bangladesh.
+
+**Undergraduate Thesis @ Department of Electrical & Electronic Engineering, Rajshahi University of Engineering & Technology.**
+- Completed undergraduate thesis under the supervision of Dr. Md. Samiul Habib on the study of [Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial Slabs](Files/Projects/1801171_Defense.pptx) as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
 
 ## Work Experience 👨🏻‍💻 
+**Technical Project Manager @ [EAGLE 3D Streaming](https://www.eagle3dstreaming.com/). (_October 2024 - Present_)**
+- Coordinate and lead cross-functional teams to achieve project objectives effectively.
+- Develop project plans and ensure tasks are completed on time, within budget, and of high quality.
+
 **Machine Learning Intern @ [Encryptix](https://drive.google.com/file/d/1FtM4TT3PtbKMiAiwc009ytu22vAW24sW/view?usp=sharing). (_June 2024 - July 2024_)**
 - Implemented and fine-tuned machine learning models using frameworks like TensorFlow, PyTorch, and Scikit-learn in various projects.
 - Monitored model performance and updated as required to ensure accuracy and relevance.
@@ -47,14 +57,18 @@
 - Completed 2-day [Career and Leadership Aid Program (CLAP)](https://drive.google.com/file/d/1FKboXt1Q6j-SOiYUzjv1LG2BXoeu1_L5/view?usp=sharing) 2022 organized by [IEEE Region 10 Young Professionals](https://yp.ieeer10.org/career-and-leadership-aid-program-2022/).
 
 ## Projects & Thesis 🎯 
+**Technical Poster**
 - I was privileged to present a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
-- I completed my undergraduate thesis titled [Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial Slabs](Files/Projects/1801171_Defense.pptx) as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree. 
+
+**Machine Learning Project**
 - During my internship as a machine learning intern, I worked on real-world projects and collaborated with a team of skilled professionals. This hands-on experience has significantly strengthened my Python and machine-learning skills and deepened my understanding of the field.
 [Projects Link](https://github.com/AshrafalKhalique/ENCRYPTIX-.git)
+
+**Data Visualization Project**
 - Currently developing proficiency in Power BI to create interactive, insightful dashboards, leveraging its powerful analytics and data visualization features for data-driven decision-making.
 [Projects Link](https://github.com/AshrafalKhalique/Ashraf-PowerBi)
 
 ## Skills 🛠️ 
-- **Technical Skills:** Python, Power Bi, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
+- **Technical Skills:** Python, MATLAB, Power Bi, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
 - **Soft Skills:** Leadership, Communication, Logistics Management, Team Coordination
  
