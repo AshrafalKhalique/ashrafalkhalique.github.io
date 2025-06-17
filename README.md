@@ -9,7 +9,7 @@
 - Secondary School Certificate | Dhanmondi Govt. Boys’ High School, Bangladesh.  (_2006 - 2016_)
 
 ## Research Interest 🔎 
-- Machine Learning & Deep LEarning
+- Machine Learning & Deep Learning
 - Data Science & Data Engineering
 - Biomedical Engineering & Health Informatics
 
