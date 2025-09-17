@@ -1,7 +1,7 @@
 ## About me 📌
 - I am an Electrical & Electronic Engineering Graduate. I received my B.Sc. degree at Rajshahi University of Engineering & Technology in 2024.
 - My research interest lies in applying machine learning and data science to healthcare, focusing on bioinformatics. I am particularly interested in developing and integrating data-driven models to analyze and interpret complex biological data. By leveraging advanced data engineering techniques, I aim to translate raw data from clinical trials and healthcare systems into actionable knowledge to inform personalized medicine and public health strategies.
-- Check my [curriculum vitae](https://drive.google.com/file/d/1JewfDxPrg-TbigTCYtFkY6iM8WXR5r-x/view?usp=sharing)
+- Check my [curriculum vitae](https://drive.google.com/file/d/1A2ZUrkthPmTkXNYX_JpkcOS7lj7g6BdC/view?usp=sharing)
 
 ## Education 🎓
 - Bachelor of Science in Electrical & Electronic Engineering | Rajshahi University of Engineering & Technology, Bangladesh. (_2018 - 2024_)								       		
@@ -12,6 +12,7 @@
 - Machine Learning & Deep Learning
 - Data Science & Data Engineering
 - Biomedical Engineering & Health Informatics
+- Communication & Signal Processing
 
 ## Research Experience 📚 
 **Health Informatics Research Lab (HIRL) @ Department of Computer Science and Engineering, Daffodil International University.**
@@ -54,14 +55,19 @@
 
 ## Training 📕 
 - Completed 7-day Industrial Training at Ghorashal Power plant, Bangladesh, and C.E.R.S, Bangladesh Power Development Board, Tongi, Gazipur.
-- Completed 2-day [Career and Leadership Aid Program (CLAP)](https://drive.google.com/file/d/1FKboXt1Q6j-SOiYUzjv1LG2BXoeu1_L5/view?usp=sharing) 2022 organized by [IEEE Region 10 Young Professionals](https://yp.ieeer10.org/career-and-leadership-aid-program-2022/).
+- Completed 2-day [Career and Leadership Aid Program (CLAP)](https://drive.google.com/file/d/1FKboXt1Q6j-SOiYUzjv1LG2BXoeu1_L5/view?usp=sharing) 2022, organized by [IEEE Region 10 Young Professionals](https://yp.ieeer10.org/career-and-leadership-aid-program-2022/).
 
-## Projects & Thesis 🎯 
+## Projects 🎯 
 **Technical Poster**
 - I was privileged to present a technical poster titled WATER INDUSTRY 4.0: Energy-wise Operation at RUET EEE DAY 2023.
 
+**Academic Project**
+- Single-phase H-Bridge inverter design and implementation @ *Embedded System Design Sessional course.*
+- MATLAB-based GUI app for processing the ECG signal to determine the Cardiac state @ *Biomedical Engineering Sessional course.*
+- Digital filter (high pass/ low pass/ band pass/ band reject) using Python code @ *Digital Signal Processing Sessional course.*
+
 **Machine Learning Project**
-- During my internship as a machine learning intern, I worked on real-world projects and collaborated with a team of skilled professionals. This hands-on experience has significantly strengthened my Python and machine-learning skills and deepened my understanding of the field.
+- During my internship as a machine learning intern, I worked on real-world projects and collaborated with a team of skilled professionals. This hands-on experience has significantly strengthened my Python and machine learning skills, deepening my understanding of the field.
 [Projects Link](https://github.com/AshrafalKhalique/ENCRYPTIX-.git)
 
 **Data Visualization Project**
@@ -69,6 +75,6 @@
 [Projects Link](https://github.com/AshrafalKhalique/Ashraf-PowerBi)
 
 ## Skills 🛠️ 
-- **Technical Skills:** Python, MATLAB, Power Bi, Microsoft Excel, Microsoft Word, Adobe Illustrator, Canva
-- **Soft Skills:** Leadership, Communication, Logistics Management, Team Coordination
+- **Languages & Software:** Python, MATLAB, C, LaTex, Adobe Illustrator, Power BI, Microsoft Office
+- **Frameworks and Libraries:** Tensorflow, Keras, Sci-kit learn, NumPy, Pandas, SciPy, Matplotlib
  
