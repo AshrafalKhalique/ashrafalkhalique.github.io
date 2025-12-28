@@ -26,6 +26,10 @@
 **Undergraduate Thesis @ Department of Electrical & Electronic Engineering, Rajshahi University of Engineering & Technology.**
 - Completed undergraduate thesis under the supervision of Dr. Md. Samiul Habib on the study of [Terahertz Imaging in Doped Germanium-Based Hyperbolic Metamaterial Slabs](Files/Projects/1801171_Defense.pptx) as a partial requirement for the Bachelor of Science in Electrical & Electronic Engineering degree.
 
+## Publications 📖 
+- [Monitoring Mental Stress Using Multimodal Physiological Signals from Wearable Device](https://www.researchgate.net/publication/399126712_Monitoring_Mental_Stress_Using_Multimodal_Physiological_Signals_from_Wearable_Device?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)
+`Conference Paper`
+
 ## Work Experience 👨🏻‍💻 
 **Technical Project Manager @ [EAGLE 3D Streaming](https://www.eagle3dstreaming.com/). (_October 2024 - Present_)**
 - Coordinate and lead cross-functional teams to achieve project objectives effectively.
